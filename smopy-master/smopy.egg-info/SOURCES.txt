@@ -1,0 +1,8 @@
+README
+setup.py
+smopy.py
+smopy.egg-info/PKG-INFO
+smopy.egg-info/SOURCES.txt
+smopy.egg-info/dependency_links.txt
+smopy.egg-info/requires.txt
+smopy.egg-info/top_level.txt
